@@ -1,0 +1,6 @@
+{
+  "name": "MEXC Scalper AI",
+  "description": "تطبيق احترافي لتوصيات صفقات سكالبينج في منصة MEXC بالاعتماد على مؤشرات فنية دقيقة وتقييم الذكاء الاصطناعي AI Score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
